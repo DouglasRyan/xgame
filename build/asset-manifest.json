@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/xgame/build/static/css/main.a8ea3c65.chunk.css",
-    "main.js": "/xgame/build/static/js/main.62821d2e.chunk.js",
-    "main.js.map": "/xgame/build/static/js/main.62821d2e.chunk.js.map",
+    "main.js": "/xgame/build/static/js/main.7ff0ad10.chunk.js",
+    "main.js.map": "/xgame/build/static/js/main.7ff0ad10.chunk.js.map",
     "runtime~main.js": "/xgame/build/static/js/runtime~main.0f352a41.js",
     "runtime~main.js.map": "/xgame/build/static/js/runtime~main.0f352a41.js.map",
     "static/js/2.56cb80cd.chunk.js": "/xgame/build/static/js/2.56cb80cd.chunk.js",
     "static/js/2.56cb80cd.chunk.js.map": "/xgame/build/static/js/2.56cb80cd.chunk.js.map",
     "index.html": "/xgame/build/index.html",
-    "precache-manifest.49c49f09ce6bb9739f4c1d011c182117.js": "/xgame/build/precache-manifest.49c49f09ce6bb9739f4c1d011c182117.js",
+    "precache-manifest.5dcd4bc8e61235ceaf240226f25187a3.js": "/xgame/build/precache-manifest.5dcd4bc8e61235ceaf240226f25187a3.js",
     "service-worker.js": "/xgame/build/service-worker.js",
     "static/css/main.a8ea3c65.chunk.css.map": "/xgame/build/static/css/main.a8ea3c65.chunk.css.map"
   }

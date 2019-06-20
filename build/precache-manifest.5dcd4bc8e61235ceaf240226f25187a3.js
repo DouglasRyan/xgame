@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "134d921fcce593399b18e3ac12a01924",
+    "revision": "43092645a4fd96711ee85622039eca11",
     "url": "/xgame/build/index.html"
   },
   {
-    "revision": "165d23aeabf4767f808c",
+    "revision": "79c4528140f4f05a0f35",
     "url": "/xgame/build/static/css/main.a8ea3c65.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xgame/build/static/js/2.56cb80cd.chunk.js"
   },
   {
-    "revision": "165d23aeabf4767f808c",
-    "url": "/xgame/build/static/js/main.62821d2e.chunk.js"
+    "revision": "79c4528140f4f05a0f35",
+    "url": "/xgame/build/static/js/main.7ff0ad10.chunk.js"
   },
   {
     "revision": "d85cc76a3391142f98c9",
